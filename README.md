@@ -6,3 +6,6 @@ Peter Parker
 
 # Iron-Man
 Tony Stark
+
+# Thor
+Loki
